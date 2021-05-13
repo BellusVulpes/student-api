@@ -4,6 +4,12 @@ const studentList = [
     lastName: "Jamison",
     age: 31,
     favoritePart: "React"
+  }, 
+  {
+    firstName: "Andy",
+    lastName: "Schachter",
+    age: 33,
+    favoritePart: "functions"    
   },
   {
     firstName: "Carrye",
