@@ -6,6 +6,11 @@ const studentList = [
     favoritePart: "React"
   },
   {
+    firstName: "Gio",
+    lastName: "Aceto",
+    age: "26",
+    favoritePart: "CSS"
+  },{
     firstName: "Michael",
     lastName: "Larocque",
     age: 28,
@@ -40,7 +45,7 @@ const studentList = [
     lastName: "Currier",
     age: 25,
     favoritePart: "Teaching"
-  }
+  },
   {
     firstName: "Christopher",
     lastName: "Boucher",
