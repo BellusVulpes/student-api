@@ -11,6 +11,12 @@ const studentList = [
     age: 25,
     favoritePart: "ExpressJS"
   }
+  {
+    firstName: "Christopher",
+    lastName: "Boucher",
+    age: "26",
+    favoritePart: "API"
+  }
 ]
 
 module.exports = studentList
